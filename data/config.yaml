@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: John White and Nick Korte
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -11,16 +11,13 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: true
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
+GitHubLink: https://github.com/vJourneyman/quartz/tree/hugo/content
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  The Nerd Journey podcast's digital garden, second brain, Zettelkasten, or knowledge graph.
 page_title:
-  "🪴 Quartz 3.2"
+  "Nerd Journey Podcast Knowledge Graph"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://twitter.com/NerdJourney
