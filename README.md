@@ -1,19 +1,11 @@
-# Quartz
+# Nerd Journey Knowledge Graph
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Oh, hello! You've come to the knowldge graph of the [Nerd Journey podcast](https://nerd-journey.com)
 
-1. Extremely fast full-text search by pressing `Ctrl` + `k`
-2. Customizable and hackable design based on Hugo
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in CJK + Latex Support
-5. Support for both Markdown Links and Wikilinks
+You might be looking for speaker notes, sources, and additional detail from one of our conference talks:
+- [VMware Explore 2022: Adventures in Technical Career Progression](https://graph.nerd-journey.com/MOC-VMware-Explore-2022-VIB1558US-Adventures-in-Technical-Career-Progression)
+- [VMware User Group Usercon 2022: Five Lessons Learned from Career Stories on the Nerd Journey Podcast](https://graph.nerd-journey.com/MOC-VMUG-Usercon-2022)
 
-Check out some of the [amazing gardens that community members](https://quartz.jzhao.xyz/notes/showcase/) have published with Quartz!
-
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
-
-🔗 Get Started: https://quartz.jzhao.xyz/
-
-![Quartz Example Screenshot](./screenshot.png)*Quartz Example Screenshot*
-
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+Other places you might want to start exploring from:
+- [Episode List](https://graph.nerd-journey.com/MOC-Past-Episodes) In Progress (needs titles, guests, and everything after episode 44!)
+- [Past Guests](https://graph.nerd-journey.com/MOC-Past-Guests)
