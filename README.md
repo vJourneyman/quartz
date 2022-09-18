@@ -1,6 +1,6 @@
 # Nerd Journey Knowledge Graph
 
-Oh, hello! You've come to the knowldge graph of the [Nerd Journey podcast](https://nerd-journey.com)
+Oh, hello! You've come to the knowledge graph of the [Nerd Journey podcast](https://nerd-journey.com)
 
 You might be looking for speaker notes, sources, and additional detail from one of our conference talks:
 - [VMware Explore 2022: Adventures in Technical Career Progression](https://graph.nerd-journey.com/MOC-VMware-Explore-2022-VIB1558US-Adventures-in-Technical-Career-Progression)
