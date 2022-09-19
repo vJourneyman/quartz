@@ -5,7 +5,7 @@ date-updated:
 title: VMUG Usercon 2022 - Condensed Speaker Notes
 aliases: []
 tags: [Publishing]
-status: unstarted
+status: in-progress
 ---
 
 # VMUG Usercon 2022 - Condensed Speaker Notes
@@ -13,10 +13,10 @@ status: unstarted
 
 ## Intro
 ### John
-Welcome everyone to Five Lessons Learned from Career Stories on the Nerd Journey Podcast! I'm John White, Google Cloud Customer Engineer, @vJourneyman on twitter.
+Welcome everyone to Five Lessons Learned from Career Stories on the Nerd Journey Podcast! I'm John White, Google Cloud Customer Engineer, [@vJourneyman](https://twitter.com/vJourneyman) on twitter.
 
 ### Nick
-And I'm Nick Korte, a VMware Staff Solution Engineer, @NetworkNerd_ on Twitter.
+And I'm Nick Korte, a VMware Staff Solution Engineer, [@NetworkNerd_](https://twitter.com/NetworkNerd_) on Twitter.
 
 
 ### John
@@ -191,4 +191,4 @@ Time-bound
 
 - [@NerdJourney](https://twitter.com/NerdJourney)
 
-Forewell viewers, tune in next time as the journey continues. I'm Nick Korte, @NetworkNerd_, for John White @vJourneyman, signing off!
+Forewell viewers, tune in next time as the journey continues. I'm Nick Korte, [@NetworkNerd_](https://twitter.com/NetworkNerd_), for John White [@vJourneyman](https://twitter.com/vJourneyman), signing off!
