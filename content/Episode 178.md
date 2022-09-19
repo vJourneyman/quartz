@@ -2,7 +2,8 @@
 date-added: 2022-08-28 Sun
 aliases: []
 tag: [Episode]
-title: "Episode 178"
+title: Episode 178
+guest: Stephanie Wong
 ---
 
 # Episode 178

@@ -7,7 +7,7 @@ title: "Episode 158"
 
 # Episode 158
 
-Welcome to episode 158 of the Nerd Journey Podcast [@NerdJourney](https://twitter.com/NerdJourney/)! We're [John White](https://www.linkedin.com/in/vJourneyman/) ([@vJourneyman](https://twitter.com/vJourneyman)) and [Nick Korte](https://www.linkedin.com/in/nickkortenetworknerd/) ([@NetworkNerd_](https://twitter.com/NetworkNerd_/)), two Pre-Sales Technical Engineers who are hoping to bring you the IT career advice that we wish we'd been given earlier in our careers. In today's episode we share part 1 of our interview with Andy Syrewicze, talking through his journey in IT from contractor for a school to experience manufacturing on into a MSP and into management.  We'll talk through how fearlessness and hunger helped Andy increase his responsibilities and as a result, his blast radius. 
+Welcome to episode 158 of the Nerd Journey Podcast [@NerdJourney](https://twitter.com/NerdJourney/)! We're [John White](https://www.linkedin.com/in/vJourneyman/) ([@vJourneyman](https://twitter.com/vJourneyman)) and [Nick Korte](https://www.linkedin.com/in/nickkortenetworknerd/) ([@NetworkNerd_](https://twitter.com/NetworkNerd_/)), two Pre-Sales Technical Engineers who are hoping to bring you the IT career advice that we wish we'd been given earlier in our careers. In today's episode we share part 1 of our interview with Andy Syrewicze, talking through his journey in IT from contractor for a school to experience manufacturing on into a MSP and into management.  We'll talk through how fearlessness and hunger helped Andy increase his responsibilities and as a result, his [[blast radius]]. 
 
 Original Recording Date: 12-29-2021 
 
@@ -213,15 +213,15 @@ Topics – Meet [[Andy Syrewicze]], Fear and the #BlastRadius, Life in the #Man
 
 * Andy managed the team's personnel resources but also acted as a technical backstop for the team of 5-6 people. 
 
-* Career progression, whether as an individual contributor or as a manager, generally involves increasing your blast radius.  That can be in the form of taking on more responsibility (i.e. going from answering questions for end users to being responsible for a large datacenter's operations like Andy did). 
+* Career progression, whether as an individual contributor or as a manager, generally involves increasing your [[blast radius]].  That can be in the form of taking on more responsibility (i.e. going from answering questions for end users to being responsible for a large datacenter's operations like Andy did). 
 
-* Sometimes you need to move to a bigger stage to enlarge the blast radius.  And that could mean moving into management, for example. 
+* Sometimes you need to move to a bigger stage to enlarge the [[blast radius]].  And that could mean moving into management, for example. 
 
 * Any time Andy made a change in his career (new role, new company), he took time to understand the responsibilities this would require to ensure he was ok with it before saying yes. 
 
 * This goes back to Andy's experience early in his career with deleting the application share when he was working for the school.  It taught him there were consequences for certain things. 
 
-* Taking on additional responsibility without the systems in place to support the enlarged blast radius would increase the changes for mistakes. 
+* Taking on additional responsibility without the systems in place to support the enlarged [[blast radius]] would increase the changes for mistakes. 
 
 * When thinking back on the massive datacenter he managed, Andy says N + 1 was not enough.  He wanted N + 2. 
 

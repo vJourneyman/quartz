@@ -1,25 +1,44 @@
 ---
-date-added: 2022-08-21 Sun
+date-added: 2022-09-18
+day-of-week-added: Sun
 aliases: []
-tags: [LiteratureNote]
-title: "Characteristics of Good Managers"
+tags: [PermanentNote]
+title: Characteristics of Good Managers
 ---
 
 # Characteristics of Good Managers
 
 ## Concept Description
-[[Kelly Schroeder]] mentioned that a manager he replaced very clearly cared about the wellbeing of the team and it's memebers, both personally and professionally. That concept of caring for the people on your team is something that Kelly still carries with him. [[Episode 59]]
+Managers have different job functions than individual contributors, but the job isn't just about the functions. It's also about the team. Our guests described a number of important characteristics they'd observed in good managers.
 
-[[Paul Green]] mentions that a key task a manager should do is to help reports think through how to solve a problem rather than solving it for them. Additionally, it's critical to connect how employee responsibilities help the company accomplish it's goals. [[Coaching vs. Directing]]  [[Episode 93]]
+Caring for the individuals, both personal and professional wellbeing and connection. 
 
-[[Jeff Eberhard]] observations on a good manager: someone interested in personal connection with their reports, an interest in helping them develop their strong points as well as their weaknesses, and an understanding of the individual's abilities as a contributor are (a high flyer with the potential to move up, a solid contributor who wants to stay put, or someone struggling who needs support to improve to the team standard). 
+Coaching rather than directing
 
-[[Andrew Miller]] says it is about conveying bad news the right way (i.e. temper based on how the person is doing).  Some may prefer super direct communication while others might need to be led into it.  [[Episode 166]]
+Understanding individual team member's strengths, weaknesses, and goals
 
 
-## Related To
-[[Coaching vs. Directing]]
 
+---
+## Upstream
+Concepts which directly led to this
+
+
+---
+## Downstream
+Concepts, thoughts, and questions which are implied by this
+
+
+---
+## Similar
+Concepts, thoughts, and ideas similar in structure, pattern, or topic
+
+
+---
+## Opposing
+Concepts, thoughts, and ideas which seem to oppose the philosophy or action of this
+
+
+---
 ## Sourced From
-[[Episode 59]]
-- [ ] [[Episode 93]]
+[[Literature Notes/Characteristics of Good Managers]]

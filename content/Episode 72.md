@@ -69,7 +69,7 @@ Original Recording Date: 03-16-2020 
 
 * Exposure to a higher level person in the organization is something that helps team members. 
 
-* Nick's book recommendation for this situation is [The Three Signs of a Miserable Job](https://www.amazon.com/Three-Signs-Miserable-Job-Employees-ebook/dp/B000UZQHD4) by [[Patrick Lencioni.]]  [[Three Signs of a Miserable Job]]
+* Nick's book recommendation for this situation is [The Three Signs of a Miserable Job](https://www.amazon.com/Three-Signs-Miserable-Job-Employees-ebook/dp/B000UZQHD4) by [[Patrick Lencioni]].  [[The Three Signs of a Miserable Job]]
 
 * One of the three signs is irrelevance.  Brad's emphasis has been on making sure his people do not feel this way. 
 

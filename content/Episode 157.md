@@ -2,7 +2,8 @@
 date-added: 2022-08-28 Sun
 aliases: []
 tag: [Episode]
-title: "Episode 157"
+title: Episode 157
+guest: Josh Duffney
 ---
 
 # Episode 157

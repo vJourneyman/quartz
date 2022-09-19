@@ -129,13 +129,13 @@ Scope | Reactive | Proactive
 
 * John feels this book has not been written for the pre-sales technical track. 
 
-* Andrew got to meet [Chad Sakac](https://www.linkedin.com/in/chadsakac/) at one point.  There was a good quote about everyone being a leader.  Someone is looking at you.  We get more of what we praise.  Leaders simply have a larger blast radius. [[Chad Sakac]]
+* Andrew got to meet [Chad Sakac](https://www.linkedin.com/in/chadsakac/) at one point.  There was a good quote about everyone being a leader.  Someone is looking at you.  We get more of what we praise.  Leaders simply have a larger [[blast radius]]. [[Chad Sakac]]
 
 * Anyone can send an e-mail to tell someone they did a great job, etc.  Leaders get to do it more visibly in things that encourage more. 
 
 * Anyone can put praise out about good behavior.  You could very well make someone's day by pointing out something they did that was positive.   
 
-* John believes he got the term "blast radius" from Chad Sakac. 
+* John believes he got the term "[[blast radius]]" from Chad Sakac. 
 
 ## 29:25 - Parting Thoughts and What Comes Next 
 

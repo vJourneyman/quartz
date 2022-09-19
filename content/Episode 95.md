@@ -41,7 +41,7 @@ Topics – [[Losing a Teammate]] / Team Transitions 
 
 * Many team members are going to wonder if someone leaving will be looked at as a cost cutting opportunity for the company. 
 
-* Nick recommends checking out [this episode of Datanauts](https://packetpushers.net/podcast/datanauts-101-the-business-side-of-it/) with guest [[Tim Crawford]] about the [[Transformational CIO]]. 
+* Nick recommends checking out [this episode of Datanauts](https://packetpushers.net/podcast/datanauts-101-the-business-side-of-it/) with guest [[Tim Crawford]] about the [[The Transformational CIO|Transformational CIO]]. 
 
 * Workload 
 

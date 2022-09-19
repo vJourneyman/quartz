@@ -42,7 +42,7 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * The style of Lencioni's writings are usually business fable and easy to consume.  John plans to put this one early in his list to get a quick win. 
 
-* Two Recommendations from [[Steven Murawski:]] 
+* Two Recommendations from [[Steven Murawski]]: 
 
 * Our trilogy of interviews with Steven began with [Episode 107](https://nerd-journey.com/a-career-journey-through-the-microsoft-ecosystem-with-steven-murawski-part-1/). [[Episode 107]]
 
@@ -52,7 +52,7 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * We have to manage tasks and groups of peers even if we do not want to pursue management. 
 
-* [How to Fail at Almost Everything and Still Win Big](https://amzn.to/36VuU64) by [[Scott Adams]] [[How to Fail at Almost Everything ans Still Win Big]] 
+* [How to Fail at Almost Everything and Still Win Big](https://amzn.to/36VuU64) by [[Scott Adams]] [[How to Fail at Almost Everything and Still Win Big]] 
 
 * John is a little hesitant on this one as the author doesn't sound like a great person in real life.  But the title remains intriguing. 
 
@@ -70,13 +70,13 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * Any other books in this area / thought leadership is welcome advice to us. 
 
-* [Feedback That Works: How to Build and Deliver Your Message](https://amzn.to/2OczSVm) by Center for Creative Leadership [[Feedback That Works]] [[Center for Creative Leadership]]
+* [Feedback That Works: How to Build and Deliver Your Message](https://amzn.to/2OczSVm) by [[Sloan R. Weitzel|Sloan Weitzel]] Center for Creative Leadership [[Feedback That Works]] [[Center for Creative Leadership]]
 
 * In his role at Google, John is involved in a lot of peer feedback and review.  He'd like to improve in this area. 
 
 * Please send recommendations for providing good feedback John's way! 
 
-* [The Art of Being Indispensable at Work](https://amzn.to/2NdqYGw) by Bruce Tulgan [[The Art of Being Indespensable at Work]] [[Bruce Tulgan]]
+* [The Art of Being Indispensable at Work](https://amzn.to/2NdqYGw) by Bruce Tulgan [[The Art of Being Indispensable at Work]] [[Bruce Tulgan]]
 
 * This is a title that seemed interesting to John as he definitely wants to be indispensable at work.  If he is able to read it he can report back. 
 
@@ -118,7 +118,7 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * It would also be nice to solve problems he comes across on a daily basis with this type of thinking. 
 
-* [Applied Computational Thinking with Python](https://amzn.to/3q5mMY3) by [[Sphia De Jesus]] and [[Dayrene Martinez]] [[Applied Computational Thinking with Python]] 
+* [Applied Computational Thinking with Python](https://amzn.to/3q5mMY3) by [[Sofía De Jesús]] and [[Dayrene Martinez]] [[Applied Computational Thinking with Python]] 
 
 * John does not know anything about the book but would love to hear from anyone who has walked this path. 
 
@@ -126,7 +126,7 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * [[Data Science]] 
 
-* [Data Science on the Google Cloud Platform](https://amzn.to/3tGdpAj) by [[Valliappa Lakshmana]] [[Data Science on the Google Cloud Platform]]
+* [Data Science on the Google Cloud Platform](https://amzn.to/3tGdpAj) by [[Valliappa Lakshmanan]] [[Data Science on the Google Cloud Platform]]
 
 * John is making a technology bet based on what he is hearing from his customers.   
 
@@ -190,21 +190,21 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * Nick really enjoys this genre and likes to learn about people's lives whether a sports figure, thought leader, successful person in business / technology, etc. 
 
-* He read [[Ed Catmull]]'s book [Creativity, Inc.](https://amzn.to/3cPlixs) at the end of 2020 and loved it (highlighted as [Nick's favorite book of 2020](https://blog.thenetworknerd.com/2021/01/02/my-2020-reading-list/)).  Ed was one of the founders of Pixar and had a dream to create a digitally animated film.  [[Creativity Inc.]]
+* He read [[Ed Catmull]]'s book [Creativity, Inc.](https://amzn.to/3cPlixs) at the end of 2020 and loved it (highlighted as [Nick's favorite book of 2020](https://blog.thenetworknerd.com/2021/01/02/my-2020-reading-list/)).  Ed was one of the founders of Pixar and had a dream to create a digitally animated film.  [[Creativity Inc]]
 
-* This led Nick to a book on [[Steve Jobs]] (who acquired Pixar) called [Becoming Steve Jobs](https://amzn.to/3a29Yfo).  It was a story of how Jobs grew and changed as a leader from the time when he founded Apple to leaving Apple and starting Next to acquiring Pixar, helping it become successful, selling it to Disney, and eventually returning to Apple to make it a success.  Nick just finished this one (highly recommend). [[Becoming Steve Jobes]]
+* This led Nick to a book on [[Steve Jobs]] (who acquired Pixar) called [Becoming Steve Jobs](https://amzn.to/3a29Yfo).  It was a story of how Jobs grew and changed as a leader from the time when he founded Apple to leaving Apple and starting Next to acquiring Pixar, helping it become successful, selling it to Disney, and eventually returning to Apple to make it a success.  Nick just finished this one (highly recommend). [[Becoming Steve Jobs]]
 
 * You can learn from people's mistakes / successes from reading their story. 
 
-* [George Lucas: A Life](https://amzn.to/3a2bVso) by [[Brian Jay Jones]] [[George Lucas: A Life]] 
+* [ ] [George Lucas: A Life](https://amzn.to/3a2bVso) by [[Brian Jay Jones]] [[George Lucas]] 
 
 * Nick is a big Star Wars fan, and this also has a connection to Pixar. 
 
-* [The Ride of a Lifetime](https://amzn.to/3d1dwRj) by [[Bob Iger]] [[Ride of a Lifetime]]
+* [The Ride of a Lifetime](https://amzn.to/3d1dwRj) by [[Bob Iger]] [[The Ride of a Lifetime]]
 
 * Iger was responsible for the launch of Shanghai Disney and shares lessons learned in his career up to being the Disney CEO. 
 
-* [Walt Disney: The Triumph of the American Imagination](https://amzn.to/3aHNqzS) [[Walt Disney: The Triumph of the American Imagination]]
+* [Walt Disney: The Triumph of the American Imagination](https://amzn.to/3aHNqzS) [[Walt Disney The Triumph of the American Imagination]]
 
 * This may have come from Nick watching [The Imagineering Story](https://en.wikipedia.org/wiki/The_Imagineering_Story) on Disney Plus. [[The Imagineering Story]]
 
@@ -214,15 +214,15 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * After reading [Andre Agassi's biography](https://amzn.to/3tzCzR4) last year, it seems natural to at some point read [A Champion's Mind: Lessons from a Life in Tennis](https://amzn.to/3cYlsm6). [[Andrei Agassi]] [[A Champion's Mind]]
 
-* [Michael Jordan: The Life](https://amzn.to/3qa5ppi) [[Michael Jordan: The Life]]
+* [Michael Jordan: The Life](https://amzn.to/3qa5ppi) [[Books/Michael Jordan]]
 
 * Nick watched a lot of Bulls basketball as a kid. 
 
-* [Gunslinger: The Remarkable, Improbable, Iconic Life of Brett Favre](https://amzn.to/3rFvaOz) by [[Jeff Pearlman]]  [[Gunslinger: The Remarkable, Improbable, Iconic Life of Brett Favre]]
+* [Gunslinger: The Remarkable, Improbable, Iconic Life of Brett Favre](https://amzn.to/3rFvaOz) by [[Jeff Pearlman]]  [[Gunslinger]]
 
 * This could have been a product of Audible social engineering. 
 
-* [Bruce Lee: A Life](https://amzn.to/3q4FHCt) by [[Matthew Polly]] [[Bruce Lee: A Life]] 
+* [Bruce Lee: A Life](https://amzn.to/3q4FHCt) by [[Matthew Polly]] [[Bruce Lee|Bruce Lee - A Life]] 
 
 * This supposed to be some of the untold story of what Bruce Lee was like. 
 
@@ -230,15 +230,15 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * This was a recommendation from [[Paul Green]].  Our interviews with Paul start in [Episode 93](https://nerd-journey.com/leadership-and-supporting-employee-potential-with-paul-green/).  [[Episode 93]]
 
-* [Paul: A Biography](https://amzn.to/39YOOiq) by [[N.T. Wright]] [[Paul: A Biography]] 
+* [Paul: A Biography](https://amzn.to/39YOOiq) by [[N.T. Wright]] [[Paul|Paul - A Biography]] 
 
 * Thinking 
 
-* [Thinking in Systems: A Primer](https://amzn.to/3jxMlOX) by [[Donella H. Meadows]] [[Thinking in Systems: A Primer]] 
+* [Thinking in Systems: A Primer](https://amzn.to/3jxMlOX) by [[Donella H. Meadows]] [[Thinking in Systems|Thinking in Systems - A Primer]]
 
 * This has been referenced in a number of different books Nick has read as has the next choice. 
 
-* [Thinking, Fast and Slow](https://amzn.to/2NaWR2w) by [[Daniel Kahnerman]] [[Thinking, Fast and Slow]]  
+* [Thinking, Fast and Slow](https://amzn.to/2NaWR2w) by [[Daniel Kahneman]] [[Thinking Fast and Slow]]  
 
 * Creativity 
 
@@ -254,7 +254,7 @@ Most book links are Amazon affiliate links. If you're going to purchase one of t
 
 * [The Yes Brain: How to Cultivate Courage, Curiosity, and Resilience in Your Child](https://amzn.to/3a3VGem) by [[Daniel Siegel]], [[Tina Payne Bryson]] [[The Yes Brain]] 
 
-* [Are My Kids on Track?: The 12 Emotional, Social, and Spiritual Milestones Your Child Needs to Reach](https://amzn.to/3a4ySLm) by [[Sissy Goff]]  [[Are My Kids on Track?]]
+* [Are My Kids on Track?: The 12 Emotional, Social, and Spiritual Milestones Your Child Needs to Reach](https://amzn.to/3a4ySLm) by [[Sissy Goff]]  [[Are My Kids on Track]]
 
 * [Raising an Emotionally Intelligent Child: The Heart of Parenting](https://amzn.to/2YYLYUj) by [[John Gottman]]  [[Raising an Emotionally Intelligent Child]]
 

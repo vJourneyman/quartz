@@ -39,7 +39,7 @@ Topics – Resources for Understanding Dyslexia, A Unique Offer, Pursuing VCDX, 
 
 * [The Dyslexic Advantage](https://www.amazon.com/Dyslexic-Advantage-Unlocking-Hidden-Potential/dp/0452297923) by [[Brock L. Eide]] M.D. M.A. and [[Fernette F. Eide]] M.D talks about strengths of the dyslexic brain, one of them being mechanical. [[The Dyslexic Advantage]]
 
-* [Overcoming Dyslexia](https://www.amazon.com/Overcoming-Dyslexia-Complete-Science-Based-Problems/dp/0679781595) by [[Sally Shaywitz]].  [[Overcoming Dyslexia]]
+* [Overcoming Dyslexia](https://www.amazon.com/Overcoming-Dyslexia-Complete-Science-Based-Problems/dp/0679781595) by [[Sally E. Shaywitz|Sally Shaywitz]].  [[Overcoming Dyslexia]]
 
 * Note that both of these are available on Audible! 
 

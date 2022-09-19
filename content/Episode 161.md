@@ -61,7 +61,7 @@ Topics – #2021 Year in Review, Making Reading more Deliberate, Hidden Gems, #G
 
 * Amazon recently commissioned [a series](https://www.youtube.com/watch?v=GSycMV-_Csw) based on the first book.  John feels it was pretty faithful to the book and is an interesting exploration of the United States through the eyes of someone who is American but has never lived in the US.  If you don't mind the violence it is worth the read. 
 
-* [Martha Wells](https://www.amazon.com/Martha-Wells/e/B000APZA1O)’s “The Murderbot Diaries” - Science Fiction; entertainment  [[Martha Wells]] [[The Murderbot Diaries]]
+* [Martha Wells](https://www.amazon.com/Martha-Wells/e/B000APZA1O)’s “The Murderbot Diaries” - Science Fiction; entertainment  [[Martha Wells]] [[All Systems Red|The Murderbot Diaries]]
 
 * John re-listened to it because another book in the series had come out. 
 
@@ -103,7 +103,7 @@ Topics – #2021 Year in Review, Making Reading more Deliberate, Hidden Gems, #G
 
 * It was interesting to hear about Iger's growth from newsroom to CEO of Disney and the stories of being there through acquisitions like Pixar, Marvel, and Lucasfilm.  He also had interesting thoughts on best practices for firing someone. 
 
-* [George Lucas: A Life](https://www.amazon.com/George-Lucas-Brian-Jay-Jones-audiobook/dp/B01K8RQ22O) by [[Brian Jay Jones]] [[George Lucas: A Life]] 
+* [George Lucas: A Life](https://www.amazon.com/George-Lucas-Brian-Jay-Jones-audiobook/dp/B01K8RQ22O) by [[Brian Jay Jones]] [[George Lucas|George Lucas - A Life]] 
 
 * It was interesting to hear about how movie pitches are done, how treatments for scripts work, and more of the details of how Star Wars came to be. 
 
@@ -117,15 +117,15 @@ Topics – #2021 Year in Review, Making Reading more Deliberate, Hidden Gems, #G
 
 * Some of the best books Nick stumbled upon are… 
 
-* [Invention: A Life](https://www.amazon.com/Invention-A-Life/dp/B092161NG2) by [[James Dyson]] [[Intention: A Life]] 
+* [Invention: A Life](https://www.amazon.com/Invention-A-Life/dp/B092161NG2) by [[James Dyson]] [[Invention|Invention - A Life]] 
 
 * Nick had no clue how close we came to not having Dyson as a company.  James studied furniture design as a young man.  The book even talks about how Dyson made an electric car at one point.  This one is also narrated by James Dyson if you listen to the Audible version! 
 
-* [The Big Miss: My Years Coaching Tiger Woods](https://www.amazon.com/The-Big-Miss-Hank-Haney-audiobook/dp/B007P1BI7G) by [[Hank Haney]] [[The Big Miss]] 
+* [The Big Miss: My Years Coaching Tiger Woods](https://www.amazon.com/The-Big-Miss-Hank-Haney-audiobook/dp/B007P1BI7G) by [[Hank Haney]] [[The Big Miss|The Big Miss - My Years Coaching Tiger Woods]] 
 
 * Hank Haney narrates the audio version of this book.  He talks about the pressures of coaching an elite performer like [[Tiger Woods]] and how close someone like Tiger lets you get on a personal level.  #Coaching
 
-* [Stan Lee: The Man behind Marvel](https://www.amazon.com/Stan-Lee-Man-behind-Marvel/dp/1538128438) by [[Bob Batchelor]] [[Stan Lee: The Man Behind Marvel]] 
+* [Stan Lee: The Man behind Marvel](https://www.amazon.com/Stan-Lee-Man-behind-Marvel/dp/1538128438) by [[Bob Batchelor]] [[Stan Lee|]] 
 
 * Nick didn't know that Stan Lee created Spider Man and many other popular Marvel characters.  Marvel is another company that didn't come to fruition during its journey from infancy. 
 

@@ -2,7 +2,7 @@
 date-added: 2022-08-23 Tue
 aliases: []
 tags: [MapOfContent]
-title: "MOC - Burnout - Detecting and Mitigating"
+title: MOC - Burnout - Detecting and Mitigating
 ---
 
 # MOC - Burnout - Detecting and Mitigating

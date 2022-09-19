@@ -11,7 +11,7 @@ title: "Speaker Notes - Condensed"
 ### John
 Welcome everyone to Adventures in Technical Career Progression! I'm your host, John White, former VMware Staff Solution Engineer, current Google Cloud Customer Engineer, @vJourneyman on twitter.
 ### Nick
-	``
+
 ## Disclaimer
 We won't be talking about product.
 
@@ -33,7 +33,7 @@ So let's take a trip!
 
 
 ## Agenda
-x### John
+### John
 Let me just spend a second on the format. We're going to do about 45 mins of talking and 15 min of questions.
 
 ### Nick

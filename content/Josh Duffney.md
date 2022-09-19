@@ -2,7 +2,7 @@
 date-added:  2022-08-28 Sun
 date-updated: 
 aliases: []
-tags: [Person]
+tags: [Person,PodcastGuest]
 title: "Josh Duffney"
 ---
 
@@ -26,5 +26,12 @@ https://www.linkedin.com/in/joshduffney/
 Senior Cloud Advocate at Microsoft
 
 
+### Guest Episodes
 
+
+```dataview
+TABLE WITHOUT ID title as Episode 
+FROM #Episode 
+WHERE guest="Josh Duffney"
+```
 

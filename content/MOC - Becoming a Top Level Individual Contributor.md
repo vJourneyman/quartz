@@ -19,9 +19,9 @@ title: "MOC - Becoming a Top Level Individual Contributor"
 	
 
 
-1) [[Episode 1]]  - "Be Great Right Now" [[Excellence vs Advancement]]
+1) [[Episode 1]]  - "Be Great Right Now" [[Excellence Precedes Advancement]]
 	[[Committing to Career Advancement]]
 	[[Options for Career Advancement]]
-	[[Excellence vs Advancement]]
+	[[Excellence Precedes Advancement]]
 2) [[Episode 36]] - Tony Reeves - [[Community Participation for Career Advancement]]
 3) 
