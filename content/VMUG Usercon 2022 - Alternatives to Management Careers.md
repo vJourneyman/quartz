@@ -8,6 +8,5 @@ title: "VMUG Usercon 2022 - Alternatives to Management Careers"
 
 # VMUG Usercon 2022 - Alternatives to Management Careers
 
-[[Leading without managing]]
-
-[[Climb the Individual Contributor seniority ladder or go somewhere where you can]]
+- [[Leading without managing]]
+- [[Climb the Individual Contributor seniority ladder or go somewhere where you can]]

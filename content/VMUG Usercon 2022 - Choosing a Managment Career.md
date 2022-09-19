@@ -10,7 +10,6 @@ status: unstarted
 
 # VMUG Usercon 2022 - Choosing a Managment Career
 
-[[Managers do different work than the teams they manage]]
-
-[[Characteristics of Good Managers]]
+- [[Managers do different work than the teams they manage]]
+- [[Characteristics of Good Managers]]
 
