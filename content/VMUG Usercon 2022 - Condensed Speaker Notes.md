@@ -20,7 +20,7 @@ And I'm Nick Korte, a VMware Staff Solution Engineer, @NetworkNerd_ on Twitter.
 
 
 ### John
-We're giving links to both our main podcast site as well as a secondary site where we host more thoroughly linked copies of our show notes, speaker notes for conferences (including this one), and all our sources. We won't have time to cite them all during this short session, but we encourage you to go to graph.nerd-journey.com, and see where we got this information.
+We're giving links to both our main podcast site as well as a secondary site where we host more thoroughly linked copies of our show notes, speaker notes for conferences (including this one), and all our sources. We won't have time to cite them all during this short session, but we encourage you to go to [graph.nerd-journey.com](https://graph.nerd-journey.com), and see where we got this information.
 
 
 ## Who are we?
@@ -186,9 +186,9 @@ Time-bound
 ## Nick
 ## Don't Let the Journey End Here
 
-nerd-journey.com
-graph.nerd-journey.com
+- [nerd-journey.com](https://nerd-journey.com)
+- [graph.nerd-journey.com](https://graph.nerd-journey.com)
 
-@NerdJourney
+- [@NerdJourney](https://twitter.com/NerdJourney)
 
 Forewell viewers, tune in next time as the journey continues. I'm Nick Korte, @NetworkNerd_, for John White @vJourneyman, signing off!
