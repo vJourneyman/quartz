@@ -12,5 +12,5 @@ status: unstarted
 
 [[Managers do different work than the teams they manage]]
 
-[[Permanent Notes/Characteristics of Good Managers]]
+[[Characteristics of Good Managers]]
 

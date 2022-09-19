@@ -21,8 +21,8 @@ Author
 
 
 ### Website
-https://www.gladwellbooks.com/
-https://www.pushkin.fm/
+- https://www.gladwellbooks.com/
+- https://www.pushkin.fm/
 
 
 

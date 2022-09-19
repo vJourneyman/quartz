@@ -41,4 +41,4 @@ Concepts, thoughts, and ideas which seem to oppose the philosophy or action of t
 
 ---
 ## Sourced From
-[[Literature Notes/Characteristics of Good Managers]]
+[[Characteristics of Good Managers - LiteratureNote]]
