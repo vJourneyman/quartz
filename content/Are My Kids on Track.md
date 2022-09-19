@@ -7,10 +7,6 @@ tags: [Book]
 title: Are My Kids on Track
 subtitle: The 12 Emotional, Social, and Spiritual Milestones Your Child Needs to Reach
 author: Sissy Goff
-publisher: {{publisher}}
-publish: {{publishDate}}
-total: {{totalPage}}
-isbn: {{isbn10}} {{isbn13}}
 cover: 
 status: in-progress
 ---
