@@ -15,6 +15,8 @@ Topics – Education, [[Certification]], and [[Mentorship|Mentoring]] 
 
 ## 1:58 Career Overview  
 
+[[Manny Sidhu]]
+
 * Manny has been a consultant in the hybrid cloud (or multiple datacenters) and security space for the past 6-8 years. 
 
 * He started a career in IT around 15 years ago. 
@@ -53,7 +55,7 @@ Topics – Education, [[Certification]], and [[Mentorship|Mentoring]] 
 
 * In 2017, Manny got a job at VMware because he caught the NSX wave early.  Almost no one in his area had the NSX certification at the time, and it made him stand out. 
 
-* It's important to "catch a wave" of a technology trend if at all possible, but it should be something that excites you. 
+* It's important to "catch a wave" of a technology trend if at all possible, but it should be something that excites you. [[Technology Waves]]
 
 * You have to try something to gauge interest. 
 
@@ -67,7 +69,7 @@ Topics – Education, [[Certification]], and [[Mentorship|Mentoring]] 
 
 * Nick cites [a session](https://vbrownbag.com/2015/10/vbrownbag-follow-up-vcp6-dcv-exam-section-5-with-manny-sidhu-mannysidhu2/) Manny did to help others study for the VCP-DCV 6 that he found extremely helpful.  This was done through [vBrownBag](https://vbrownbag.com/) #vBrownBag 
 
-* Manny mentioned he was encouraged by [[Jonathan Frappier]] to present for vBrownBag, and it was very successful. 
+* Manny mentioned he was encouraged by [[Jonathan Frappier]] to present for vBrownBag, and it was very successful.  [[Jonathan Frappier]]
 
 * Manny's attitude is that if his presentation could help one person, it has served its purpose. 
 

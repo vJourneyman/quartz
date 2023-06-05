@@ -10,7 +10,7 @@ Original Recording Date: 07-07-2022
 [[Pure Storage]]
 [[Episode 187]]
 
-## 2:44 - Boosted by the Community and a Technology Wave
+## 2:44 - Boosted by the Community and a [[Technology Waves|Technology Wave]]
 
 - Joe jumped into the technology community in 2008 or 2009 when he attended his first [VMUG](VMware User Group)](https://www.vmug.com/) event. Listen to the story of how he was welcomed at the local [UserCon](https://www.vmug.com/events/usercons/) event.
     - Joe mentions a couple of the original [vExperts](https://vexpert.vmware.com/) said he looked like a nerd and wanted to introduce him to everyone. [[vExpert]]
