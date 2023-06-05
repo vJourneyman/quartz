@@ -31,7 +31,7 @@ Topics – Preparing for Unexpected Career Opportunities, Part 5 
 
 * John is officially employed now and is a Customer Engineer at Google representing the [[Google Cloud]] portfolio of products. 
 
-## 2:54 – Personal Finance 
+## 2:54 – [[Personal Finance]] 
 
 * We realized a lot of the advice we gave in previous episodes centered around being in a financially health place and wanted to dig into that a bit further. 
 

@@ -3,6 +3,7 @@ date-added: 2022-08-19 Fri
 aliases: []
 tag: [Episode]
 title: "Episode 13"
+guest: Tom Delicati
 ---
 
 # Episode 13

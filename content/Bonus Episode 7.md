@@ -165,7 +165,7 @@ Topics – Thanksgiving, Family, and Career 
 
 * Money 
 
-* We talked about personal finance in [Episode 57](http://nerd-journey.com/preparing-for-unexpected-opportunities-part-5-personal-finance/). 
+* We talked about [[personal finance]] in [Episode 57](http://nerd-journey.com/preparing-for-unexpected-opportunities-part-5-personal-finance/). 
 
 * John's parents modeled use of money and personal finance that he will always remember.  The discussions about this began when he was young. 
 

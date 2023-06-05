@@ -3,6 +3,7 @@ date-added: 2022-08-19 Fri
 aliases: []
 tag: [Episode]
 title: "Episode 42"
+guest: Ethan Banks
 ---
 
 # Episode 42

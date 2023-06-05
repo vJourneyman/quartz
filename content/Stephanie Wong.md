@@ -35,12 +35,6 @@ https://www.tiktok.com/@stephr_wong
 ### Blurb
 
 
-### Guest Episodes
-```dataview
-TABLE WITHOUT ID title as Episode 
-FROM #Episode 
-WHERE guest="Stephanie Wong"
-```
 
 
 

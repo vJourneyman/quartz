@@ -219,7 +219,7 @@ Topics – A Personal #Sabbatical, Deciding What to Do with the #Time, When Orga
 
 * Mike says he went through the numbers and how much the family paid each month, how much was set aside for their deck project, and determined how many months they could go without getting to a desperation point. 
 
-* Keeping finances in order creates the flexibility.  Even if you are working at a great company, you don't know what might change. 
+* Keeping finances in order creates the flexibility.  Even if you are working at a great company, you don't know what might change. [[Personal Finance]] 
 
 * If your lifestyle increases with every raise you will have no margin for error. 
 

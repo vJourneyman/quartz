@@ -9,7 +9,7 @@ title: "Episode 16"
 
 Topic 1 – Reasons not to Pursue a Career Opportunity (Pre-Application Stage), Part 1 of 2 
 
-We're highlighting some content from a Manager Tools 10-part podcast series on choosing a company to work for 
+We're highlighting some content from a [[Manager Tools]] 10-part podcast series on choosing a company to work for 
 
 3:29 [Choosing A Company To Work For - Chapter 1 - Factors To Consider Part 1](https://www.manager-tools.com/2013/05/choosing-a-company-work-chapter-1-factors-consider-part-1) 
 

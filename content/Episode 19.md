@@ -80,23 +80,15 @@ Process over outcomes 
     -   Reward your good processes even when there are bad outcomes 
         
         -    Scenario: Didn't get the job 
-            
-            -   Asked for coaching during the process 
-                
-            -   Did a great edit on your resume 
-                
-            -   Great prep for screening and early hiring-manager interviews 
-                
-            -   Great mid- and late-process interviews 
-                
-            -   Reward yourself for great process 
-                
-            -   The outcome was ultimately outside of your control 
-                
+            - Asked for coaching during the process 
+            - Did a great edit on your resume 
+            - Great prep for screening and early hiring-manager interviews 
+            - Great mid- and late-process interviews
+            - Reward yourself for great process
+            - The outcome was ultimately outside of your control
                 -   It was always about probability, not certainty 
-                    
                 -   Did you do everything your reasonable, ethical power to tip the odds in your favor? 
-                    
+    
     -   Practice, take notes along the way, self-assess 
         
 

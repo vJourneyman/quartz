@@ -3,11 +3,12 @@ date-added: 2022-08-19 Fri
 aliases: []
 tag: [Episode]
 title: "Episode 14"
+guest: Tom Delicati
 ---
 
 # Episode 14
 
-Topics 
+## Topics - [[Tom Delicati]]
 
 3:21 What was the ramp-up to the decision to become an entrepreneur? 
 

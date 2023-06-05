@@ -28,5 +28,10 @@ https://ethancbanks.com/about/
 Co-founder of Packet Pushers Interactive; Host or co-hosts podcasts about IT for architects and engineers on shows such as [[Heavy Networking]] and [[Day Two Cloud]].
 
 
+### Episodes
+
+- [[Episode 42]]
+- [[Episode 43]]
+
 
 
